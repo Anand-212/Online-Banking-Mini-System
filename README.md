@@ -8,9 +8,8 @@ A web-based Online Banking application developed as an academic student project 
 
 * **Developed by:** Anand Raj
 * **Course:** Master of Computer Applications (MCA)
-* **Subject:** Software Engineering (CMCA0303)
+* **Subject:** Software Engineering
 * **College:** Noida Institute of Engineering and Technology (NIET), Greater Noida
-* **ERP ID:** 2501330140063
 
 ---
 
