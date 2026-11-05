@@ -116,7 +116,7 @@ Open `src/main/resources/application.properties` and verify your local Oracle cr
 db.driver=oracle.jdbc.driver.OracleDriver
 db.url=jdbc:oracle:thin:@localhost:1521:xe
 db.username=system
-db.password=anand
+db.password=your_oracle_password_here
 ```
 *(If your Oracle `system` user has a different password, update `db.password` to match your local database).*
 
