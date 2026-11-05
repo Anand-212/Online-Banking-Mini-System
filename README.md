@@ -31,13 +31,17 @@ A web-based Online Banking application developed as an academic student project 
 
 ## Screenshots
 
-| 1. Customer Login : [Customer Login](docs/screenshots/01_customer_login.png) 
+### 1. Customer Login
+![Customer Login](docs/screenshots/01_customer_login.png)
 
-| 2. Customer Dashboard : [Customer Dashboard](docs/screenshots/02_customer_dashboard.png) 
+### 2. Customer Dashboard
+![Customer Dashboard](docs/screenshots/02_customer_dashboard.png)
 
-| 3. Fund Transfer (with MPIN) : [Fund Transfer](docs/screenshots/03_fund_transfer.png) 
+### 3. Fund Transfer (with MPIN)
+![Fund Transfer](docs/screenshots/03_fund_transfer.png)
 
-| 4. Transactions & PDF Download : [Transaction Statement](docs/screenshots/04_transaction_statement.png) 
+### 4. Transactions & PDF Download
+![Transaction Statement](docs/screenshots/04_transaction_statement.png)
 
 ---
 
@@ -74,8 +78,7 @@ OnlineBankingSystem/
 │       │   ├── model/            # Java classes (User, Transaction, Admin, etc.)
 │       │   └── util/             # Helper classes (DBConnection, MPIN, Password, etc.)
 │       ├── resources/
-│       │   ├── application.properties          # Database connection settings
-│       │   └── application.properties.example  # Example settings file
+│       │   └── application.properties  # Database connection settings file
 │       └── webapp/               # JSP pages, CSS styling, and JavaScript
 ├── database.sql                  # Database tables, sequences, and sample data
 ├── cleanup.sql                   # Script to drop database tables if needed
